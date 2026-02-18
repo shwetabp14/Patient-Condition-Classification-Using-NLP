@@ -54,3 +54,9 @@ Model performance is evaluated using:
 ```bash
 git clone https://github.com/your-username/Patient-Condition-Classification-Using-NLP.git
 cd Patient-Condition-Classification-Using-NLP
+---
+2. Open the notebooks in Jupyter / VS Code
+- Run `Drugs_review.ipynb` first
+- Then run `drug_app.ipynb`
+
+
